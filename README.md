@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @varunrajdondapati
+- 👋 Hi, I’m @Varunrajdondapati
 - 👀 I’m interested in Data Analytics and Machine Learning
 - 🌱 I’m currently learning Deep Learning Algorithms
 - 📫 Reach me through varunraj.dondapati@gmail.com
